@@ -61,7 +61,7 @@ git push
 - ghostscript Z. B. EPS in PDF[^20]
 
 [^1]: <https://git-scm.com/downloads>
-[^2]: <https://github.com/ju1-eu/N-Meisterschule.git>
+[^2]: <https://github.com/ju1-eu/N-TeX-Web-iMac-v2.git>
 [^3]: <https://www.tug.org/texlive/>
 [^4]: <https://pandoc.org/installing.html>
 [^5]: <https://imagemagick.org/script/download.php>
@@ -89,7 +89,7 @@ git push
 2. `scripteBash/gitversionieren.sh`
     - "/Volumes/usb-daten/meineNotizen/repository/notizen-iMac"
 3. `projekt.sh`
-    - THEMA="N-Meisterschule"
+    - THEMA="N-TeX-Web-iMac-v2"
     - "/Volumes/usb-daten/meineNotizen/backup/notizen-iMac"
     - "/Volumes/usb-daten/meineNotizen/archiv/notizen-iMac"
 4. `content/meta.tex`
@@ -143,8 +143,8 @@ GitHub's Maximum File size of **50 MB**
 
 ```
 # HTTPS oder SSH
-HTTPS: https://github.com/ju1-eu/N-Meisterschule.git
-SSH: git@github.com:ju1-eu/N-Meisterschule.git
+HTTPS: https://github.com/ju1-eu/N-TeX-Web-iMac-v2.git
+SSH: git@github.com:ju1-eu/N-TeX-Web-iMac-v2.git
 
 # create a new repository 
 echo "# README" >> README.md
@@ -155,7 +155,7 @@ git add .
 git commit -m "git init"
                 
 # or push an existing repository 
-git remote add origin https://github.com/ju1-eu/N-Meisterschule.git
+git remote add origin https://github.com/ju1-eu/N-TeX-Web-iMac-v2.git
 git push -u origin master
 # new
 git push -u origin main
@@ -164,7 +164,7 @@ git push -u origin main
 **Git-Repository klonen**
 
 ```
-git clone https://github.com/ju1-eu/N-Meisterschule.git
+git clone https://github.com/ju1-eu/N-TeX-Web-iMac-v2.git
 ```
 
 ## Script Beschreibung
@@ -214,6 +214,6 @@ git clone https://github.com/ju1-eu/N-Meisterschule.git
         - "/Volumes/usb-daten/meineNotizen/repository/notizen-iMac"
 9) Sicherung + Archiv erstellen
     - **Pfade** anpassen in `projekt.sh`
-    - THEMA="N-Meisterschule"
+    - THEMA="N-TeX-Web-iMac-v2"
     - "/Volumes/usb-daten/meineNotizen/backup/notizen-iMac"
     - "/Volumes/usb-daten/meineNotizen/archiv/notizen-iMac"
