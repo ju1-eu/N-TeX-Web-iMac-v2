@@ -1,5 +1,5 @@
 #!/bin/bash -e
-# ju 18-12-21
+# ju 25-2-22
 
 # suchen und ersetzen: sed -i -e '/suchen/ s//ersetzen/g' "$i"
 # loeschen:            sed -i -e '/suchen/d' "$i"
@@ -114,7 +114,7 @@ for i in *.tex; do
     sed -i -e '/\\textasciitilde/ s//~/g' "$i"
 
     # \%
-    sed -i -e '/\\textbackslash/ s//\\/g' "$i"
+    #sed -i -e '/\\textbackslash/ s//\\/g' "$i"
 
  
 	# Tabellen
@@ -122,11 +122,10 @@ for i in *.tex; do
 	# loeschen:  sed -i -e '/suchen/d' "$i"
 	sed -i -e '/vgl. tab./ s//%vgl.~(\\autoref{tab:})./g' "$i"
 	sed -i -e '/\\begin{longtable}[[]]/ s//\\begin{table}[!ht]% hier: !ht \n\\centering \n	\\caption{}% \\label{tab:}%% anpassen \n\\begin{tabular}/g' "$i"
-	sed -i -e '/tabularnewline/ s//\\/g' "$i"
+	#sed -i -e '/tabularnewline/ s//\\/g' "$i"
 	sed -i -e '/\\end{longtable}/ s//\\end{tabular} \n\\end{table}/g' "$i"
     sed -i -e '/@{}/ s//@{}}/g' "$i"
     sed -i -e '/\\begin{tabular}{@{}}/ s//\\begin{tabular}{@{}/g' "$i"
-    sed -i -e '/\\%/ s//%/g' "$i"
     sed -i -e '/\\endhead/d' "$i"
 	sed -i -e '/\\begin{tabular/ s/}}/}/g' "$i"
 	sed -i -e 's/toprule/hline/g' "$i"
@@ -182,10 +181,10 @@ for i in *.tex; do
 	sed -i -e '/\\(/ s//$/g' "$i"
 	sed -i -e '/\\)/ s//$/g' "$i"
 	# \textbackslash{} - \
-	sed -i -e '/\\textbackslash{}/ s//\\/g' "$i"
+	#sed -i -e '/\\textbackslash{}/ s//\\/g' "$i"
 	# \textgreater{} - >
 	sed -i -e '/\\textgreater{}/ s//>/g' "$i"
-	sed -i -e 's/~%/~\\%/g' "$i"
+	#sed -i -e 's/~%/~\\%/g' "$i"
 	
 
 	# Anführungszeichen
@@ -197,6 +196,10 @@ for i in *.tex; do
     #\textgreater\textgreater Vorratsdrücke\textless\textless{}
     sed -i -e '/\\textgreater\\textgreater/ s//\\flqq/g' "$i"
 	sed -i -e '/\\textless\\textless{}/ s//\\frqq/g' "$i"
+	# \\ -> \
+	# # Ersetze "foo" mit "bar" AUSSER in Zeilen die "baz" enthalten
+	# sed '/baz/!s/foo/bar/g'
+ 	#sed -i -e '/&/!s/\\\\/\\/g' "$i"
 
 done
 

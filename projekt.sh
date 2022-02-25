@@ -30,9 +30,9 @@
 # ANPASSEN
 
 	THEMA="N-TeX-Web-iMac-v2"
-	BACKUP_USB="/Volumes/usb-daten/meineNotizen/backup/notizen-iMac"    
-	ARCHIV_USB="/Volumes/usb-daten/meineNotizen/archiv/notizen-iMac"    
-	#REPOS_USB="/Volumes/usb-daten/meineNotizen/repository/notizen-iMac"    
+	BACKUP_USB="/Volumes/USB-DATEN/meineNotizen/backup/notizen-iMac"    
+	ARCHIV_USB="/Volumes/USB-DATEN/meineNotizen/archiv/notizen-iMac"    
+	#REPOS_USB="/Volumes/USB-DATEN/meineNotizen/repository/notizen-iMac"    
 
 ###########################################################################
 

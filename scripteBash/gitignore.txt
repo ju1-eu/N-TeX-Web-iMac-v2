@@ -23,7 +23,7 @@
 index.html
 git-log.txt
 README.pdf
-images/Logo/logo-eps-converted-to.pdf
+images/Logo/*-eps-converted-to.pdf
 
 cms-lokal
 cms-server
@@ -33,3 +33,8 @@ images/Video/video.mov
 archiv/md.zip
 archiv/content.zip
 md/x
+code/.ipynb_checkpoints
+code/x
+html
+
+# ohne PDFs

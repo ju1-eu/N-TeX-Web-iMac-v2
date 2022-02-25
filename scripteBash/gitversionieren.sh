@@ -6,7 +6,7 @@
 # Variablen
 #------------------------------------------------------
 	THEMA="N-TeX-Web-iMac-v2" # = REPOSITORY
-	repos_USB="/Volumes/usb-daten/meineNotizen/repository/notizen-iMac"    
+	repos_USB="/Volumes/USB-DATEN/meineNotizen/repository/notizen-iMac"    
 #------------------------------------------------------
 
 info="Git versionieren"
@@ -32,7 +32,7 @@ echo "+ $info"
 
 # (3) backup Repository:  backupUSB/main
     # anpassen
-#repos_USB="/Volumes/usb-daten/meineNotizen/repository/notizen-iMac"    
+#repos_USB="/Volumes/USB-DATEN/meineNotizen/repository/notizen-iMac"    
 #REPOSITORY="N-TeX-Web-iMac-v2"
 #LESEZEICHEN="backupUSB"
 #git clone --no-hardlinks --bare . $repos_USB/$REPOSITORY.git 

@@ -1,7 +1,7 @@
 <!-----------------------------------------------
 Alle Abbildungen 'images/' in Markdown speichern.
 	* 'archiv/input-img.txt'
-ju 05-Feb-2022 input-img.txt
+ju 25-Feb-2022 input-img.txt
 ------------------------------------------------->
 
 
@@ -48,6 +48,11 @@ ju 05-Feb-2022 input-img.txt
 <!--Logo2 vgl. abb.-->
 
 ![Logo2](images/Logo/Logo2.pdf){width=60%}
+
+
+<!--logo-eps-converted-to vgl. abb.-->
+
+![logo-eps-converted-to](images/Logo/logo-eps-converted-to.pdf){width=60%}
 
 
 <!--logo vgl. abb.-->

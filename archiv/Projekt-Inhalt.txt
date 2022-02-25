@@ -1,194 +1,110 @@
 % ---------------------------------
 % Inhalt vom Projektverzeichnis.
 % 'archiv/Projekt-Inhalt.txt'
-% ju 05-Feb-2022 Projekt-Inhalt.txt
+% ju 25-Feb-2022 Projekt-Inhalt.txt
 % ---------------------------------
 % 
 /Users/jan/latex/N-TeX-Web-iMac-v2
+-rwxr-xr-x@ 1 jan  staff   6,5K 20 Feb 17:30 projekt.sh
+-rw-r--r--  1 jan  staff    93K  7 Feb 19:46 main-print.log
+-rw-r--r--  1 jan  staff   140K  7 Feb 19:46 main-print.synctex.gz
+-rw-r--r--@ 1 jan  staff   484K  7 Feb 19:46 main-print.pdf
+-rw-r--r--  1 jan  staff   2,6K  7 Feb 19:46 main-print.toc
+-rw-r--r--  1 jan  staff   2,4K  7 Feb 19:46 main-print.run.xml
+-rw-r--r--  1 jan  staff   106K  7 Feb 19:46 main-print.bcf
+-rw-r--r--  1 jan  staff    21K  7 Feb 19:46 main-print.aux
+-rw-r--r--  1 jan  staff     0B  7 Feb 19:46 main-print.out
+-rw-r--r--  1 jan  staff    20K  7 Feb 19:45 main-print.bbl
+-rw-r--r--  1 jan  staff   1,3K  7 Feb 19:45 main-print.blg
+-rw-rw-r--@ 1 jan  staff   1,4K  7 Feb 19:40 Makefile
+-rw-r--r--  1 jan  staff    25K  7 Feb 19:38 main-cornell.pdf
+-rw-r--r--  1 jan  staff   480K  7 Feb 19:38 main-book.pdf
+-rw-r--r--  1 jan  staff   2,4K  7 Feb 19:38 main-book.run.xml
+-rw-r--r--  1 jan  staff   143K  7 Feb 19:38 main-beamer.pdf
+-rw-r--r--  1 jan  staff   2,4K  7 Feb 19:38 main-beamer.run.xml
+-rw-r--r--  1 jan  staff   130K  7 Feb 19:37 main-aufgaben.pdf
+-rw-r--r--  1 jan  staff    54K  7 Feb 19:37 main-artikel.pdf
+-rw-r--r--  1 jan  staff   2,4K  7 Feb 19:37 main-artikel.run.xml
+-rw-r--r--  1 jan  staff    22K  7 Feb 19:37 main-Cornell-Methode.pdf
+-rw-r--r--  1 jan  staff     0B  7 Feb 19:33 main-book.bbl
+-rw-r--r--  1 jan  staff   466B  7 Feb 19:32 main-beamer.bbl
+-rw-r--r--  1 jan  staff   466B  7 Feb 19:32 main-artikel.bbl
+-rw-r--r--  1 jan  staff   158B  5 Feb 16:32 git-log.txt
+-rw-r--r--@ 1 jan  staff   5,9K  5 Feb 12:48 README.md
+-rw-r--r--@ 1 jan  staff   2,1K  5 Feb 12:37 main-beamer.tex
 -rw-r--r--@ 1 jan  staff   1,7K  5 Feb 12:28 main-artikel.tex
 -rw-r--r--@ 1 jan  staff   675B  5 Feb 12:27 main-aufgaben.tex
 -rw-r--r--@ 1 jan  staff   1,2K  5 Feb 12:26 main-print.tex
--rw-r--r--@ 1 jan  staff   5,9K  5 Feb 10:01 README.md
--rw-r--r--  1 jan  staff   590B  7 Nov 18:33 git-log.txt
 -rw-r--r--@ 1 jan  staff   1,2K  1 Nov 10:00 main-book.tex
 -rw-r--r--  1 jan  staff   1,6K 25 Okt 19:12 main-cornell.tex
--rw-r--r--  1 jan  staff   2,1K 25 Okt 19:12 main-beamer.tex
 -rw-r--r--  1 jan  staff   1,9K 25 Okt 19:12 main-Cornell-Methode.tex
 -rw-rw-r--@ 1 jan  staff    11K 22 Okt 18:29 hpi-praeambel.sty
 -rw-rw-r--@ 1 jan  staff   3,6K 22 Okt 17:31 osm-exam.sty
--rwxr-xr-x@ 1 jan  staff   6,5K 22 Jul  2021 projekt.sh
 -rw-r--r--@ 1 jan  staff    25K 11 Jul  2021 res.cls
--rw-rw-r--@ 1 jan  staff   1,4K 16 Jun  2021 Makefile
 -rw-rw-r--@ 1 jan  staff   2,6K 31 Mai  1993 slashbox.sty
-
-Tabellen:
-total 3368
--rw-r--r--   1 jan  staff   1,6K  5 Feb 12:31 input-PDFs.txt
-drwxr-xr-x  25 jan  staff   800B  5 Feb 12:31 .
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
--rw-r--r--   1 jan  staff   6,0K  4 Dez 09:47 .DS_Store
--rwxr-xr-x@  1 jan  staff   9,2K 30 Nov 16:07 Excel-vorlage.xlsx
--rwxr-xr-x@  1 jan  staff   282K  7 Nov 17:02 Vektorgrafiken_Zeichnen_Vorlage.ait
--rw-r--r--   1 jan  staff   1,6K  4 Nov 18:54 x-PDFs.tex
-drwxr-xr-x  14 jan  staff   448B  4 Nov 17:27 PDF
--rw-r--r--@  1 jan  staff   249K  1 Nov 10:37 KaWa.ait
--rwxrwxrwx@  1 jan  staff    50K 30 Okt 15:26 Bullet-Journal-Planungssystem.xlsx
--rw-r--r--@  1 jan  staff    13K 29 Okt 23:11 Zeitrechner.xlsx
--rwxrwxrwx@  1 jan  staff   317K 29 Okt 18:55 Termine-2023.xlsx
--rwxrwxrwx@  1 jan  staff   319K 29 Okt 18:55 Termine-2022.xlsx
--rwxrwxrwx@  1 jan  staff   320K 29 Okt 17:52 Termine-2021.xlsx
--rw-r--r--   1 jan  staff   541B 25 Okt 19:12 tabelle.md
--rw-r--r--   1 jan  staff   254B 25 Okt 19:12 tabelle.csv
--rw-r--r--   1 jan  staff   1,1K 25 Okt 19:12 Tabelle.tex
--rw-r--r--   1 jan  staff   126B 25 Okt 19:12 PDF-Dokumente-einbinden.tex
--rw-r--r--   1 jan  staff    12K 25 Okt 19:12 Maentylae-Liste.xlsx
--rw-r--r--@  1 jan  staff    11K 25 Okt 19:12 Klausurenplan.xlsx
--rwxr-xr-x   1 jan  staff    10K 25 Okt 19:12 Kennworttechnik.xlsx
--rw-r--r--   1 jan  staff    10K 25 Okt 19:12 Karten-Vorlage.xlsx
--rw-r--r--   1 jan  staff   149B 25 Okt 19:12 Check-Liste.tex
--rw-r--r--@  1 jan  staff    11K 25 Okt 19:12 ABC-Vorlage.xlsx
--rw-r--r--@  1 jan  staff    10K 30 Jun  2021 Fortschritt.xlsx
 
 texPandoc:
 total 96
-drwxr-xr-x   8 jan  staff   256B  5 Feb 12:31 .
--rw-r--r--   1 jan  staff   6,4K  5 Feb 12:31 Spickzettel-Markdown.tex
--rw-r--r--   1 jan  staff   6,4K  5 Feb 12:31 Spickzettel-Markdown.tex-e
--rw-r--r--   1 jan  staff   8,4K  5 Feb 12:31 README.tex
--rw-r--r--   1 jan  staff   8,4K  5 Feb 12:31 README.tex-e
--rw-r--r--   1 jan  staff    56B  5 Feb 12:31 0x-Thema.tex
--rw-r--r--   1 jan  staff    56B  5 Feb 12:31 0x-Thema.tex-e
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x   8 jan  staff   256B 25 Feb 19:07 .
+-rw-r--r--   1 jan  staff   6,4K 25 Feb 19:07 Spickzettel-Markdown.tex
+-rw-r--r--   1 jan  staff   6,4K 25 Feb 19:07 Spickzettel-Markdown.tex-e
+-rw-r--r--   1 jan  staff   8,4K 25 Feb 19:07 README.tex
+-rw-r--r--   1 jan  staff   8,4K 25 Feb 19:07 README.tex-e
+-rw-r--r--   1 jan  staff    56B 25 Feb 19:07 0x-Thema.tex
+-rw-r--r--   1 jan  staff    56B 25 Feb 19:07 0x-Thema.tex-e
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 
 html:
 total 128
-drwxr-xr-x   8 jan  staff   256B  5 Feb 12:31 .
--rw-r--r--   1 jan  staff   9,8K  5 Feb 12:31 Spickzettel-Markdown.html
--rw-r--r--   1 jan  staff   9,8K  5 Feb 12:31 Spickzettel-Markdown.html-e
--rw-r--r--   1 jan  staff    13K  5 Feb 12:31 README.html
--rw-r--r--   1 jan  staff    13K  5 Feb 12:31 README.html-e
--rw-r--r--   1 jan  staff   1,1K  5 Feb 12:31 0x-Thema.html
--rw-r--r--   1 jan  staff   1,1K  5 Feb 12:31 0x-Thema.html-e
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x   8 jan  staff   256B 25 Feb 19:07 .
+-rw-r--r--   1 jan  staff   9,8K 25 Feb 19:07 Spickzettel-Markdown.html
+-rw-r--r--   1 jan  staff   9,8K 25 Feb 19:07 Spickzettel-Markdown.html-e
+-rw-r--r--   1 jan  staff    13K 25 Feb 19:07 README.html
+-rw-r--r--   1 jan  staff    13K 25 Feb 19:07 README.html-e
+-rw-r--r--   1 jan  staff   1,1K 25 Feb 19:07 0x-Thema.html
+-rw-r--r--   1 jan  staff   1,1K 25 Feb 19:07 0x-Thema.html-e
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 
 cms-server:
 total 96
-drwxr-xr-x   8 jan  staff   256B  5 Feb 12:31 .
--rw-r--r--   1 jan  staff   7,7K  5 Feb 12:31 Spickzettel-Markdown.html
--rw-r--r--   1 jan  staff   7,7K  5 Feb 12:31 Spickzettel-Markdown.html-e
--rw-r--r--   1 jan  staff    12K  5 Feb 12:31 README.html
--rw-r--r--   1 jan  staff    12K  5 Feb 12:31 README.html-e
--rw-r--r--   1 jan  staff    26B  5 Feb 12:31 0x-Thema.html
--rw-r--r--   1 jan  staff    26B  5 Feb 12:31 0x-Thema.html-e
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x   8 jan  staff   256B 25 Feb 19:07 .
+-rw-r--r--   1 jan  staff   7,7K 25 Feb 19:07 Spickzettel-Markdown.html
+-rw-r--r--   1 jan  staff   7,7K 25 Feb 19:07 Spickzettel-Markdown.html-e
+-rw-r--r--   1 jan  staff    12K 25 Feb 19:07 README.html
+-rw-r--r--   1 jan  staff    12K 25 Feb 19:07 README.html-e
+-rw-r--r--   1 jan  staff    26B 25 Feb 19:07 0x-Thema.html
+-rw-r--r--   1 jan  staff    26B 25 Feb 19:07 0x-Thema.html-e
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 
 cms-lokal:
 total 96
-drwxr-xr-x   8 jan  staff   256B  5 Feb 12:31 .
--rw-r--r--   1 jan  staff   7,6K  5 Feb 12:31 Spickzettel-Markdown.html
--rw-r--r--   1 jan  staff   7,6K  5 Feb 12:31 Spickzettel-Markdown.html-e
--rw-r--r--   1 jan  staff    12K  5 Feb 12:31 README.html
--rw-r--r--   1 jan  staff    12K  5 Feb 12:31 README.html-e
--rw-r--r--   1 jan  staff    26B  5 Feb 12:31 0x-Thema.html
--rw-r--r--   1 jan  staff    26B  5 Feb 12:31 0x-Thema.html-e
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x   8 jan  staff   256B 25 Feb 19:07 .
+-rw-r--r--   1 jan  staff   7,6K 25 Feb 19:07 Spickzettel-Markdown.html
+-rw-r--r--   1 jan  staff   7,6K 25 Feb 19:07 Spickzettel-Markdown.html-e
+-rw-r--r--   1 jan  staff    12K 25 Feb 19:07 README.html
+-rw-r--r--   1 jan  staff    12K 25 Feb 19:07 README.html-e
+-rw-r--r--   1 jan  staff    26B 25 Feb 19:07 0x-Thema.html
+-rw-r--r--   1 jan  staff    26B 25 Feb 19:07 0x-Thema.html-e
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 
 img-out:
 total 0
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
-drwxr-xr-x   2 jan  staff    64B  5 Feb 12:31 .
-
-content:
-total 320
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
-drwxr-xr-x  33 jan  staff   1,0K  5 Feb 12:29 .
--rw-r--r--@  1 jan  staff   1,7K  5 Feb 12:28 main-artikel.tex
--rw-r--r--@  1 jan  staff   675B  5 Feb 12:27 main-aufgaben.tex
--rw-r--r--@  1 jan  staff   1,2K  5 Feb 12:26 main-print.tex
--rw-r--r--   1 jan  staff   6,0K  5 Feb 12:20 .DS_Store
--rw-r--r--   1 jan  staff   4,5K  5 Feb 10:46 abstract.aux
--rw-r--r--   1 jan  staff   4,4K  5 Feb 10:46 titlepage.aux
--rw-r--r--   1 jan  staff   4,4K  5 Feb 10:46 meta.aux
--rw-r--r--   1 jan  staff   4,1K  5 Feb 10:46 praeambel-artikel.aux
-drwxr-xr-x  10 jan  staff   320B  5 Feb 10:05 tex
--rw-r--r--   1 jan  staff   2,2K  5 Feb 09:50 inhalt.tex
--rw-r--r--@  1 jan  staff   564B  5 Feb 09:42 meta.tex
--rw-r--r--   1 jan  staff   9,1K 22 Jan 14:36 literatur-kfz.bib
--rw-r--r--@  1 jan  staff   1,4K 18 Dez 14:54 abstract.tex
--rw-r--r--@  1 jan  staff   1,7K  5 Dez 11:24 kapitel1-artikel.tex
--rw-r--r--@  1 jan  staff   734B  3 Dez 17:16 titlepage.tex
--rw-r--r--   1 jan  staff   202B  1 Nov 17:09 00_metadata.tex
--rw-r--r--@  1 jan  staff   693B  1 Nov 17:09 01-Thema-aufgaben.tex
--rw-r--r--@  1 jan  staff   1,2K  1 Nov 10:00 main-book.tex
--rw-r--r--   1 jan  staff   3,2K 25 Okt 19:12 praeambel-cornell.tex
--rw-r--r--   1 jan  staff   4,0K 25 Okt 19:12 praeambel-beamer.tex
--rw-r--r--   1 jan  staff   4,3K 25 Okt 19:12 praeambel-artikel.tex
--rw-r--r--   1 jan  staff   1,6K 25 Okt 19:12 main-cornell.tex
--rw-r--r--   1 jan  staff   2,1K 25 Okt 19:12 main-beamer.tex
--rw-r--r--   1 jan  staff   1,9K 25 Okt 19:12 main-Cornell-Methode.tex
--rw-r--r--   1 jan  staff   9,9K 25 Okt 19:12 literatur.bib
--rw-r--r--   1 jan  staff   6,9K 25 Okt 19:12 literatur-sport.bib
-drwxr-xr-x   8 jan  staff   256B 25 Okt 19:12 beispiele
--rw-r--r--   1 jan  staff   813B 25 Okt 19:12 Links.md
--rw-r--r--   1 jan  staff   319B 25 Okt 19:12 99_leerblaetter.tex
--rw-r--r--   1 jan  staff   627B 25 Okt 19:12 01_questions-dummy.tex
--rw-r--r--   1 jan  staff   831B 25 Okt 19:12 01_multiple-choice-dummy.tex
-
-code:
-total 72
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
-drwxr-xr-x  10 jan  staff   320B  5 Feb 12:20 .
--rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:20 .DS_Store
--rw-r--r--   1 jan  staff   1,6K  4 Feb 18:54 rechnen_vorlage.ipynb
--rw-r--r--@  1 jan  staff   1,8K  4 Dez 09:41 VSCode_Shortcuts.md
--rw-r--r--@  1 jan  staff   1,6K  2 Dez 12:47 Python_keywords.md
--rw-r--r--   1 jan  staff   3,9K  2 Dez 12:47 Python_keywords.ipynb
--rw-rw-r--@  1 jan  staff   151B  2 Dez 09:24 requirements2.txt
--rw-rw-r--@  1 jan  staff   308B 20 Nov 11:45 requirements1.txt
--rw-r--r--@  1 jan  staff   888B 22 Jul  2021 Python_keywords.py
-
-images:
-total 104
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
--rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:20 .DS_Store
-drwxr-xr-x   7 jan  staff   224B  5 Feb 12:19 .
-drwxr-xr-x  13 jan  staff   416B  5 Feb 11:45 Logo
-drwxr-xr-x   3 jan  staff    96B  5 Feb 09:55 Video
-drwxr-xr-x@  3 jan  staff    96B 18 Dez 14:33 Skizze
--rw-r--r--@  1 jan  staff    43K 25 Okt 18:57 titelbild.pdf
-
-md:
-total 240
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
--rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:19 .DS_Store
-drwxr-xr-x  16 jan  staff   512B  5 Feb 12:19 .
--rw-r--r--@  1 jan  staff    24K  5 Feb 11:49 README.html
--rw-r--r--@  1 jan  staff   6,1K  5 Feb 09:32 README.md
-drwxr-xr-x   3 jan  staff    96B  5 Feb 09:31 images
--rw-r--r--@  1 jan  staff   5,0K  5 Feb 09:29 Spickzettel-Markdown.md
--rw-r--r--@  1 jan  staff   303B  5 Feb 09:27 0x-Thema.md
--rw-r--r--   1 jan  staff   9,1K 22 Jan 14:36 literatur-kfz.bib
-drwxr-xr-x   2 jan  staff    64B 18 Dez 15:41 build
--rw-r--r--@  1 jan  staff   901B 18 Dez 15:34 Makefile
--rw-r--r--   1 jan  staff   582B  6 Jun  2021 _output.yaml
--rw-r--r--   1 jan  staff    13K 13 Jan  2021 zitierstil-number.csl
--rw-r--r--   1 jan  staff   9,9K 13 Jan  2021 literatur.bib
--rw-r--r--   1 jan  staff   6,9K 13 Jan  2021 literatur-sport.bib
--rw-r--r--   1 jan  staff   6,0K 13 Jan  2021 github.css
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x   2 jan  staff    64B 25 Feb 19:07 .
 
 scripteBash:
 total 3824
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+-rwxr-xr-x@  1 jan  staff   2,6K 25 Feb 19:06 gitversionieren.sh
+drwxr-xr-x  22 jan  staff   704B 25 Feb 18:56 .
+-rwxr-xr-x   1 jan  staff   6,8K 25 Feb 18:39 sed.sh
+-rw-------@  1 jan  staff   533B  6 Feb 10:39 gitignore.txt
 -rwxr-xr-x@  1 jan  staff   5,3K  5 Feb 12:30 www.sh
--rwxr-xr-x@  1 jan  staff   2,6K  5 Feb 12:29 gitversionieren.sh
-drwxr-xr-x  22 jan  staff   704B  5 Feb 12:18 .
 -rw-r--r--@  1 jan  staff    10K  5 Feb 12:17 .DS_Store
 -rw-r--r--   1 jan  staff   1,4K  5 Feb 12:12 gitconfig.txt
 -rw-r--r--   1 jan  staff   207B  5 Feb 12:12 gitattributes.txt
--rw-------@  1 jan  staff   487B  5 Feb 12:11 gitignore.txt
 -rwxr-xr-x   1 jan  staff   1,7K 18 Dez 13:33 inputImgMarkdown.sh
 -rwxr-xr-x@  1 jan  staff   1,1K 18 Dez 13:25 inputPdfsLatex.sh
--rwxr-xr-x   1 jan  staff   6,7K 18 Dez 12:20 sed.sh
 -rwxr-xr-x   1 jan  staff   3,3K 18 Dez 12:14 picFiles.sh
 -rwxr-xr-x@  1 jan  staff   4,6K  4 Nov 18:10 artikel-anlegen.sh
 -rwxr-xr-x   1 jan  staff   3,9K 22 Jul  2021 inputKapitelLatex.sh
@@ -201,46 +117,138 @@ drwxr-xr-x  22 jan  staff   704B  5 Feb 12:18 .
 -rwxr-xr-x   1 jan  staff    48B 13 Jan  2021 hallo.sh
 -rw-r--r--   1 jan  staff   1,7M 13 Jan  2021 ISOcoated_v2_eci.icc
 
+md:
+total 240
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x  16 jan  staff   512B  7 Feb 20:09 .
+-rw-r--r--   1 jan  staff   9,2K  7 Feb 20:03 literatur-kfz.bib
+-rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:19 .DS_Store
+-rw-r--r--@  1 jan  staff    24K  5 Feb 11:49 README.html
+-rw-r--r--@  1 jan  staff   6,1K  5 Feb 09:32 README.md
+drwxr-xr-x   3 jan  staff    96B  5 Feb 09:31 images
+-rw-r--r--@  1 jan  staff   5,0K  5 Feb 09:29 Spickzettel-Markdown.md
+-rw-r--r--@  1 jan  staff   303B  5 Feb 09:27 0x-Thema.md
+drwxr-xr-x   2 jan  staff    64B 18 Dez 15:41 build
+-rw-r--r--@  1 jan  staff   901B 18 Dez 15:34 Makefile
+-rw-r--r--   1 jan  staff   582B  6 Jun  2021 _output.yaml
+-rw-r--r--   1 jan  staff    13K 13 Jan  2021 zitierstil-number.csl
+-rw-r--r--   1 jan  staff   9,9K 13 Jan  2021 literatur.bib
+-rw-r--r--   1 jan  staff   6,9K 13 Jan  2021 literatur-sport.bib
+-rw-r--r--   1 jan  staff   6,0K 13 Jan  2021 github.css
+
+content:
+total 336
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x  34 jan  staff   1,1K  7 Feb 20:09 .
+-rw-r--r--   1 jan  staff   9,2K  7 Feb 20:03 literatur-kfz.bib
+-rw-r--r--   1 jan  staff   4,5K  7 Feb 19:46 abstract.aux
+-rw-r--r--   1 jan  staff   4,4K  7 Feb 19:46 titlepage.aux
+-rw-r--r--   1 jan  staff   4,4K  7 Feb 19:46 meta.aux
+-rw-r--r--   1 jan  staff   4,1K  7 Feb 19:38 praeambel-beamer.aux
+-rw-r--r--   1 jan  staff   4,1K  7 Feb 19:37 praeambel-artikel.aux
+-rw-r--r--   1 jan  staff   6,0K  5 Feb 12:40 .DS_Store
+-rw-r--r--@  1 jan  staff   2,1K  5 Feb 12:37 main-beamer.tex
+-rw-r--r--@  1 jan  staff   1,7K  5 Feb 12:28 main-artikel.tex
+-rw-r--r--@  1 jan  staff   675B  5 Feb 12:27 main-aufgaben.tex
+-rw-r--r--@  1 jan  staff   1,2K  5 Feb 12:26 main-print.tex
+drwxr-xr-x  10 jan  staff   320B  5 Feb 10:05 tex
+-rw-r--r--   1 jan  staff   2,2K  5 Feb 09:50 inhalt.tex
+-rw-r--r--@  1 jan  staff   564B  5 Feb 09:42 meta.tex
+-rw-r--r--@  1 jan  staff   1,4K 18 Dez 14:54 abstract.tex
+-rw-r--r--@  1 jan  staff   1,7K  5 Dez 11:24 kapitel1-artikel.tex
+-rw-r--r--@  1 jan  staff   734B  3 Dez 17:16 titlepage.tex
+-rw-r--r--   1 jan  staff   202B  1 Nov 17:09 00_metadata.tex
+-rw-r--r--@  1 jan  staff   693B  1 Nov 17:09 01-Thema-aufgaben.tex
+-rw-r--r--@  1 jan  staff   1,2K  1 Nov 10:00 main-book.tex
+-rw-r--r--   1 jan  staff   3,2K 25 Okt 19:12 praeambel-cornell.tex
+-rw-r--r--   1 jan  staff   4,0K 25 Okt 19:12 praeambel-beamer.tex
+-rw-r--r--   1 jan  staff   4,3K 25 Okt 19:12 praeambel-artikel.tex
+-rw-r--r--   1 jan  staff   1,6K 25 Okt 19:12 main-cornell.tex
+-rw-r--r--   1 jan  staff   1,9K 25 Okt 19:12 main-Cornell-Methode.tex
+drwxr-xr-x   8 jan  staff   256B 25 Okt 19:12 beispiele
+-rw-r--r--   1 jan  staff   813B 25 Okt 19:12 Links.md
+-rw-r--r--   1 jan  staff   319B 25 Okt 19:12 99_leerblaetter.tex
+-rw-r--r--   1 jan  staff   627B 25 Okt 19:12 01_questions-dummy.tex
+-rw-r--r--   1 jan  staff   831B 25 Okt 19:12 01_multiple-choice-dummy.tex
+-rw-r--r--   1 jan  staff   9,9K 13 Jan  2021 literatur.bib
+-rw-r--r--   1 jan  staff   6,9K 13 Jan  2021 literatur-sport.bib
+
 archiv:
-total 4952
--rw-r--r--   1 jan  staff   8,2K  5 Feb 12:31 Projekt-Inhalt.txt
--rw-r--r--   1 jan  staff   2,4K  5 Feb 12:31 inhalt.tex
--rw-r--r--   1 jan  staff   967B  5 Feb 12:31 input-img.txt
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
-drwxr-xr-x  11 jan  staff   352B  7 Nov 18:33 .
--rw-r--r--   1 jan  staff    21K  7 Nov 18:33 md.zip
--rw-r--r--   1 jan  staff   2,4M  7 Nov 18:33 content.zip
--rw-r--r--   1 jan  staff   3,3K  4 Nov 18:54 Pics-files.tex
--rw-r--r--   1 jan  staff   489B  4 Nov 18:54 Quellcode-files.tex
+total 4960
+-rw-r--r--   1 jan  staff   8,2K 25 Feb 19:07 Projekt-Inhalt.txt
+-rw-r--r--   1 jan  staff   2,2K 25 Feb 19:07 inhalt.tex
+-rw-r--r--   1 jan  staff   1,1K 25 Feb 19:07 input-img.txt
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x  11 jan  staff   352B  5 Feb 16:33 .
+-rw-r--r--   1 jan  staff    27K  5 Feb 16:33 md.zip
+-rw-r--r--   1 jan  staff   2,4M  5 Feb 16:33 content.zip
+-rw-r--r--   1 jan  staff   241B  5 Feb 12:31 Pics-files.tex
+-rw-r--r--   1 jan  staff   531B  5 Feb 12:31 Quellcode-files.tex
 -rw-r--r--   1 jan  staff    34B  4 Nov 18:54 input-PDFs.txt
 -rw-r--r--@  1 jan  staff   6,0K 22 Jul  2021 .DS_Store
 
+images:
+total 112
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x   8 jan  staff   256B  5 Feb 13:08 .
+drwxr-xr-x  23 jan  staff   736B  5 Feb 13:07 Logo
+-rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:20 .DS_Store
+drwxr-xr-x   3 jan  staff    96B  5 Feb 09:55 Video
+drwxr-xr-x@  3 jan  staff    96B 18 Dez 14:33 Skizze
+-rw-r--r--@  1 jan  staff    43K 25 Okt 18:57 titelbild.pdf
+-rw-r--r--@  1 jan  staff   779B 25 Okt 18:57 titelbild.svg
+
+Tabellen:
+total 32
+-rw-r--r--   1 jan  staff    34B 25 Feb 19:07 input-PDFs.txt
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+-rw-r--r--   1 jan  staff   6,0K  5 Feb 13:08 .DS_Store
+drwxr-xr-x   7 jan  staff   224B  5 Feb 12:31 .
+-rw-r--r--@  1 jan  staff    70B 18 Dez 14:31 PDFs.tex
+drwxr-xr-x   3 jan  staff    96B 18 Dez 14:31 PDF
+drwxr-xr-x  33 jan  staff   1,0K  1 Dez 14:10 Muster
+
 Artikel:
-total 88
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+total 104
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 Spickzettel-Markdown-artikel.tex
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 Spickzettel-Latex-artikel.tex
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 README-artikel.tex
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 0x_questions-artikel.tex
+drwxr-xr-x  15 jan  staff   480B  5 Feb 12:31 .
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 0x-Thema-artikel.tex
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 01_cornell-artikel.tex
+-rw-r--r--   1 jan  staff   1,7K  5 Feb 12:31 01_beamer-artikel.tex
 -rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 kapitel2-artikel.tex
 -rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 kapitel1-artikel.tex
--rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 Spickzettel-Markdown-artikel.tex
--rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 Spickzettel-Latex-artikel.tex
--rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 README-artikel.tex
 -rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 Neu-artikel.tex
 -rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 01_questions-artikel.tex
--rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 01_cornell-artikel.tex
--rw-r--r--   1 jan  staff   1,7K  4 Nov 18:54 01_beamer-artikel.tex
-drwxr-xr-x  13 jan  staff   416B  1 Nov 16:26 .
 -rw-r--r--@  1 jan  staff   6,0K 25 Okt 18:07 .DS_Store
 drwxr-xr-x  23 jan  staff   736B 22 Jul  2021 Bsp
 
+code:
+total 72
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
+drwxr-xr-x  10 jan  staff   320B  5 Feb 12:20 .
+-rw-r--r--@  1 jan  staff   6,0K  5 Feb 12:20 .DS_Store
+-rw-r--r--   1 jan  staff   1,6K  4 Feb 18:54 rechnen_vorlage.ipynb
+-rw-r--r--@  1 jan  staff   1,8K  4 Dez 09:41 VSCode_Shortcuts.md
+-rw-r--r--@  1 jan  staff   1,6K  2 Dez 12:47 Python_keywords.md
+-rw-r--r--   1 jan  staff   3,9K  2 Dez 12:47 Python_keywords.ipynb
+-rw-rw-r--@  1 jan  staff   151B  2 Dez 09:24 requirements2.txt
+-rw-rw-r--@  1 jan  staff   308B 20 Nov 11:45 requirements1.txt
+-rw-r--r--@  1 jan  staff   888B 22 Jul  2021 Python_keywords.py
+
 img-in:
 total 16
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 -rw-r--r--@  1 jan  staff   6,0K 22 Jul  2021 .DS_Store
 drwxr-xr-x   4 jan  staff   128B 22 Jul  2021 test
 drwxr-xr-x   4 jan  staff   128B 22 Jul  2021 .
 
 css:
 total 24
-drwxr-xr-x@ 37 jan  staff   1,2K  5 Feb 12:31 ..
+drwxr-xr-x@ 59 jan  staff   1,8K 25 Feb 19:07 ..
 -rw-r--r--   1 jan  staff   6,0K 13 Jan  2021 github.css
 drwxr-xr-x   4 jan  staff   128B 13 Jan  2021 .
 -rw-r--r--   1 jan  staff   1,3K 13 Jan  2021 design.css

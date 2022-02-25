@@ -1,3 +1,4 @@
+# rm -Rf "$(biber --cache)" 
 LANG = de_DE
 
 TMP_DIR ?= /tmp/$(notdir $(CURDIR))
